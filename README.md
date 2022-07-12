@@ -1,4 +1,4 @@
-# CovidTracker
+# CovidDashboard
 This is a covid tracker to check covid statistics.
 ## Project overview:
 Deployed version - https://covid-19-dashboard1.netlify.app/
