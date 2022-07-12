@@ -18,7 +18,7 @@ function InfoBox({ title, cases, isRed, active, total, ...props }) {
 
         {/* cases */}
         <h2 className={`infoBox__cases ${!isRed && "infoBox__cases--green"}`}>
-          {cases}
+          Today {cases}
         </h2>
 
         {/* Total cases */}

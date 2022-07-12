@@ -22,7 +22,7 @@
   max-width: 450px;
 }
 .title {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   padding: 10px;
 }
 .desc {
@@ -39,8 +39,8 @@ img {
 
 a {
   cursor: pointer;
-  background-color: #fff;
-  border: 2px solid #fff;
+  background-color: #FFD700;
+  border: 2px solid #FFD700;
   border-radius: 2px;
   color: #161130;
   margin: 0 auto;
