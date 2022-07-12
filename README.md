@@ -1,8 +1,7 @@
 # CovidTracker
 This is a covid tracker to check covid statistics.
 ## Project overview:
-Deployed version - https://covid-tracker-mandeep.netlify.app/
-
+Deployed version - https://covid-19-dashboard1.netlify.app/
 ## Features: 
 1. Check latest covid cases
 2. Cases in map form
